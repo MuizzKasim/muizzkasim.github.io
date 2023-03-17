@@ -1,5 +1,5 @@
 # muizzkasim.github.io
-You can access the published page of this website by using the link below:
+You can access the published page of this website by using the following link:
 https://muizzkasim.github.io/
 
 Project Description:
